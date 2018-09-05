@@ -44,14 +44,15 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     name = "Christopher Clarizio"
     # Avatars can be written to images/avatars/
     avatar = "chrisclarizio.png"
-    position = "Junior Computer Science Student"
+    position = "Senior Computer Science Student"
     livesIn = "[Chicago, Illinois](https://www.google.com/maps/place/Wrigley+Field/@41.9484424,-87.6575214,17z/data=!3m1!4b1!4m5!3m4!1s0x880fd3b2e59adf21:0x1cea3ee176ddd646!8m2!3d41.9484384!4d-87.6553327)"
     scope = [
         "Attending [University of Notre Dame](cse.nd.edu)",
+	"Implemented video manifest validation microservice for [Amazon Web Services Elemental Media Tailor](https://aws.amazon.com/mediatailor)",
         "Researched physiological based computer vision for [Dr. Walter Schreir](https://engineering.nd.edu/profiles/wscheirer)",
         "Researched machine learning and experiment reproducability at [National Tsing Hua University](http://nthu-en.web.nthu.edu.tw/bin/home.php)"
       ]
-    biography = """I am a junior currently studying computer science at the University of Notre Dame. My interests include research into machine learning and computer vision as well as entrepreneurship in the tech world. I am currently looking for opportunities for the summer of 2018."""
+    biography = """I am a senior studying computer science at the University of Notre Dame. My interests include research into machine learning and computer vision as well as entrepreneurship in the tech world. I am currently looking for fulltime positions starting summer 2019."""
 
   # Contact form settings
 
@@ -68,7 +69,7 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
 
-    email = "cclarizi@nd.edu"
+    email = "christopher.a.clarizio@gmail.com"
 
     # It is possible to substitute formspring with other providers
     # as an example the mailout plugin from caddy.
@@ -84,7 +85,7 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     messagePlaceholder = "Message"
     buttonText = "Send"
     success = "Thank you for reaching out to me."
-    error = "Message could not be send. Please contact us at "
+    error = "Message could not be sent. Please contact us at "
 
     # Google invisible captcha
     #[params.contact.captcha]
